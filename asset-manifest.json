@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboly/static/css/main.62195015.chunk.css",
+    "main.js": "/roboly/static/js/main.ae525862.chunk.js",
+    "main.js.map": "/roboly/static/js/main.ae525862.chunk.js.map",
+    "runtime-main.js": "/roboly/static/js/runtime-main.8b900c0c.js",
+    "runtime-main.js.map": "/roboly/static/js/runtime-main.8b900c0c.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/roboly/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ce0361a9.chunk.js": "/roboly/static/js/2.ce0361a9.chunk.js",
+    "static/js/2.ce0361a9.chunk.js.map": "/roboly/static/js/2.ce0361a9.chunk.js.map",
+    "index.html": "/roboly/index.html",
+    "precache-manifest.68f662bd0514868b54c9b7000bddcba5.js": "/roboly/precache-manifest.68f662bd0514868b54c9b7000bddcba5.js",
+    "service-worker.js": "/roboly/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/roboly/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.62195015.chunk.css.map": "/roboly/static/css/main.62195015.chunk.css.map",
+    "static/js/2.ce0361a9.chunk.js.LICENSE.txt": "/roboly/static/js/2.ce0361a9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboly/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b900c0c.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ce0361a9.chunk.js",
+    "static/css/main.62195015.chunk.css",
+    "static/js/main.ae525862.chunk.js"
+  ]
+}
