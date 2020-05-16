@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6549387ad4d3bc5be0eb742589fdecfc",
+    "revision": "64c6e28026652b2a853be75627910ba6",
     "url": "/roboly/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roboly/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "f78f82921adbc011b88f",
+    "revision": "9146580b4af496ec9652",
     "url": "/roboly/static/css/main.1a433889.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roboly/static/js/2.dd0617bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f78f82921adbc011b88f",
-    "url": "/roboly/static/js/main.51a37d71.chunk.js"
+    "revision": "9146580b4af496ec9652",
+    "url": "/roboly/static/js/main.7ce4be5c.chunk.js"
   },
   {
     "revision": "3169714c49f9e8d7df99",

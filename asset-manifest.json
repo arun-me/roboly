@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/roboly/static/css/main.1a433889.chunk.css",
-    "main.js": "/roboly/static/js/main.51a37d71.chunk.js",
-    "main.js.map": "/roboly/static/js/main.51a37d71.chunk.js.map",
+    "main.js": "/roboly/static/js/main.7ce4be5c.chunk.js",
+    "main.js.map": "/roboly/static/js/main.7ce4be5c.chunk.js.map",
     "runtime-main.js": "/roboly/static/js/runtime-main.8b900c0c.js",
     "runtime-main.js.map": "/roboly/static/js/runtime-main.8b900c0c.js.map",
     "static/css/2.3c03f26f.chunk.css": "/roboly/static/css/2.3c03f26f.chunk.css",
     "static/js/2.dd0617bf.chunk.js": "/roboly/static/js/2.dd0617bf.chunk.js",
     "static/js/2.dd0617bf.chunk.js.map": "/roboly/static/js/2.dd0617bf.chunk.js.map",
     "index.html": "/roboly/index.html",
-    "precache-manifest.663e07e992b70ec2771fe1f830800db5.js": "/roboly/precache-manifest.663e07e992b70ec2771fe1f830800db5.js",
+    "precache-manifest.64f4eb6830ba43a99754396b882b974d.js": "/roboly/precache-manifest.64f4eb6830ba43a99754396b882b974d.js",
     "service-worker.js": "/roboly/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/roboly/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.1a433889.chunk.css.map": "/roboly/static/css/main.1a433889.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.dd0617bf.chunk.js",
     "static/css/main.1a433889.chunk.css",
-    "static/js/main.51a37d71.chunk.js"
+    "static/js/main.7ce4be5c.chunk.js"
   ]
 }
