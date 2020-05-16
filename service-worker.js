@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/roboly/precache-manifest.68f662bd0514868b54c9b7000bddcba5.js"
+  "/roboly/precache-manifest.663e07e992b70ec2771fe1f830800db5.js"
 );
 
 self.addEventListener('message', (event) => {

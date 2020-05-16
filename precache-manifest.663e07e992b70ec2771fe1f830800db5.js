@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa0c3bc26546cc99b639050be8adae92",
+    "revision": "6549387ad4d3bc5be0eb742589fdecfc",
     "url": "/roboly/index.html"
   },
   {
-    "revision": "9a93af0fc4170a6960d0",
+    "revision": "f6abe478e965de875b30",
     "url": "/roboly/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "87f9a1f5d4f7c028ea28",
-    "url": "/roboly/static/css/main.62195015.chunk.css"
+    "revision": "f78f82921adbc011b88f",
+    "url": "/roboly/static/css/main.1a433889.chunk.css"
   },
   {
-    "revision": "9a93af0fc4170a6960d0",
-    "url": "/roboly/static/js/2.ce0361a9.chunk.js"
+    "revision": "f6abe478e965de875b30",
+    "url": "/roboly/static/js/2.dd0617bf.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/roboly/static/js/2.ce0361a9.chunk.js.LICENSE.txt"
+    "url": "/roboly/static/js/2.dd0617bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87f9a1f5d4f7c028ea28",
-    "url": "/roboly/static/js/main.ae525862.chunk.js"
+    "revision": "f78f82921adbc011b88f",
+    "url": "/roboly/static/js/main.51a37d71.chunk.js"
   },
   {
     "revision": "3169714c49f9e8d7df99",
